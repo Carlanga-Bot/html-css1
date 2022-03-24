@@ -1,0 +1,29 @@
+.text-white{
+    font-family: 'Comfortaa', cursive;
+    color: white;
+}
+.card{
+    border: 1px 1px bl;
+    background-color: rgb(61, 233, 61);
+    text-align: center;
+    box-shadow: 3px 3px 5px 5px rgba(0, 0, 0, 0.267);
+    padding-bottom: 20px;
+    padding-top: 5px;
+}
+.fondo{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: green;
+}
+.titulo{
+    font-family: 'Comfortaa', cursive;
+    color: green;
+}
+.imagen{
+    width: 5%;
+    padding-left: 5px;
+}
+.texto{
+    font-family: 'Comfortaa', cursive;
+    font-size: 80%;
+}
